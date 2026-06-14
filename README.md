@@ -20,7 +20,7 @@ This project analyzes churn behavior among 4,000 gym members using SQL (PostgreS
 
 | Tool | Purpose |
 |---|---|
-| Python 3.11 | Data loading, export, and pipeline orchestration |
+| Python 3.14.5 | Data loading, export, and pipeline orchestration |
 | PostgreSQL | SQL-based churn analysis via `psycopg2` |
 | Pandas | DataFrame handling and CSV export |
 | Power BI | KPI dashboard and visual reporting |
